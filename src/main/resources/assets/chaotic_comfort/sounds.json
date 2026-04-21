@@ -1,0 +1,10 @@
+{
+  "pommes_rot_weiss": {
+    "sounds": [
+      {
+        "name": "chaotic_comfort:pommes_rot_weiss",
+        "stream": true
+      }
+    ]
+  }
+}

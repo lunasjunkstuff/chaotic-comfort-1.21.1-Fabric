@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "chaotic_comfort:item/electric_guitar"
+  }
+}

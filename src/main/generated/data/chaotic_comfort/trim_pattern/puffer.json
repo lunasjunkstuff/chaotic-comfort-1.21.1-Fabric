@@ -1,0 +1,8 @@
+{
+  "asset_id": "chaotic_comfort:puffer",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.chaotic_comfort.puffer"
+  },
+  "template_item": "chaotic_comfort:puffer_smithing_template"
+}

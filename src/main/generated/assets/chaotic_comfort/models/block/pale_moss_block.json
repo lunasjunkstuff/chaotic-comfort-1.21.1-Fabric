@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chaotic_comfort:block/pale_moss_block"
+  }
+}

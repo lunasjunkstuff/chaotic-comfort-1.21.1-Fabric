@@ -1,0 +1,39 @@
+{
+  "itemgroup.chaotic_comfort": "Chaotic Comfort",
+
+  "item.chaotic_comfort.golden_nether_star": "Golden Nether Star",
+  "item.chaotic_comfort.puffer_smithing_template": "Smithing Template",
+
+  "trim_pattern.chaotic_comfort.puffer": "Cult Smithing Template",
+
+  "item.chaotic_comfort.baguette": "Baguette",
+
+  "item.chaotic_comfort.electric_guitar": "Electric Guitar",
+  "item.chaotic_comfort.glitchy_electric_guitar": "§5§k§lElectric Guitar§r§r§r",
+  "tooltip.chaotic_chaos.glitchy_electric_guitar.tooltip": "§5You´re not supposed to be here§r",
+
+  "block.chaotic_comfort.purple_tulip": "Purple Tulip",
+  "block.chaotic_comfort.yellow_tulip": "Yellow Tulip",
+
+  "block.chaotic_comfort.pale_oak_planks": "Pale Oak Planks",
+  "block.chaotic_comfort.pale_oak_stairs": "Pale Oak Stairs",
+  "block.chaotic_comfort.pale_oak_slab": "Pale Oak Slab",
+  "block.chaotic_comfort.pale_oak_button": "Pale Oak Button",
+  "block.chaotic_comfort.pale_oak_pressure_plate": "Pale Oak Pressure Plate",
+  "block.chaotic_comfort.pale_oak_fence": "Pale Oak Fence",
+  "block.chaotic_comfort.pale_oak_fence_gate": "Pale Oak Fence Gate",
+  "block.chaotic_comfort.pale_oak_door": "Pale Oak Door",
+  "block.chaotic_comfort.pale_oak_trapdoor": "Pale Oak Trapdoor",
+
+  "block.chaotic_comfort.pale_oak_leaves": "Pale Oak Leaves",
+  "block.chaotic_comfort.pale_oak_log": "Pale Oak Log",
+  "block.chaotic_comfort.stripped_pale_oak_log": "Pale Oak Log",
+  "block.chaotic_comfort.pale_oak_wood": "Pale Oak Wood",
+  "block.chaotic_comfort.stripped_pale_oak_wood": "Stripped Pale Oak Wood",
+
+  "block.chaotic_comfort.pale_moss_block": "Pale Moss Block",
+  "block.chaotic_comfort.pale_moss_carpet": "Pale Moss Carpet",
+
+  "entity.minecraft.villager.guy": "Guy",
+  "entity.minecraft.villager.florist": "Florist Guy"
+}

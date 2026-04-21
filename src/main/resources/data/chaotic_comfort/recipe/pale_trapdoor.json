@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chaotic_comfort:pale_oak_planks"
+    }
+  },
+  "result": {
+    "id": "chaotic_comfort:pale_oak_trapdoor",
+    "count": 2
+  }
+}

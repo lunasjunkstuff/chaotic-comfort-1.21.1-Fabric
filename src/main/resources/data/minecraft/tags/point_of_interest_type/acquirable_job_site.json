@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "chaotic_comfort:guy_poi",
+      "required": false
+    },
+    {
+      "id": "chaotic_comfort:florist_poi",
+      "required": false
+    }
+  ]
+}

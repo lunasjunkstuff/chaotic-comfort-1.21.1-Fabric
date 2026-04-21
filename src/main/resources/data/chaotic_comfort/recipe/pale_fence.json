@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "#P#"
+  ],
+  "key": {
+    "#": {
+      "item": "chaotic_comfort:pale_oak_planks"
+    },
+    "P": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "chaotic_comfort:pale_oak_fence",
+    "count": 3
+  }
+}

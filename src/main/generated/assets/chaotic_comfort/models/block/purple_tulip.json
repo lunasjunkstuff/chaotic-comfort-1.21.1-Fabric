@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "chaotic_comfort:block/purple_tulip"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "chaotic_comfort:pale_oak_log"
+      },
+      {
+        "item": "chaotic_comfort:stripped_pale_oak_log"
+      },
+      {
+        "item": "chaotic_comfort:pale_oak_wood"
+      },
+      {
+        "item": "chaotic_comfort:stripped_pale_oak_wood"
+      }
+    ]
+  },
+  "result": {
+    "id": "chaotic_comfort:pale_oak_planks",
+    "count": 4
+  }
+}

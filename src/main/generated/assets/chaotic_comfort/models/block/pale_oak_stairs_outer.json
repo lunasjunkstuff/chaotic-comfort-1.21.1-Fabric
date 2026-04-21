@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "chaotic_comfort:block/pale_oak_planks",
+    "side": "chaotic_comfort:block/pale_oak_planks",
+    "top": "chaotic_comfort:block/pale_oak_planks"
+  }
+}

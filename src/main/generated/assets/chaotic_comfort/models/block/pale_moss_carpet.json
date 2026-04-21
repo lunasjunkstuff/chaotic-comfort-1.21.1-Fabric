@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "chaotic_comfort:block/pale_moss_block"
+  }
+}

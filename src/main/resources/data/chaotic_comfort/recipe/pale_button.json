@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chaotic_comfort:pale_oak_planks"
+    }
+  ],
+  "result": {
+    "id": "chaotic_comfort:pale_oak_button",
+    "count": 1
+  }
+}

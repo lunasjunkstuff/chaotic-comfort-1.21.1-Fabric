@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "chaotic_comfort:item/golden_nether_star"
+  }
+}

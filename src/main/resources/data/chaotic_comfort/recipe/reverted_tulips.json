@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:red_tulip"
+    },
+    {
+      "item": "minecraft:orange_tulip"
+    },
+    {
+      "item": "minecraft:white_tulip"
+    },
+    {
+      "item": "minecraft:pink_tulip"
+    },
+    {
+      "item": "chaotic_comfort:yellow_tulip"
+    },
+    {
+      "item": "chaotic_comfort:purple_tulip"
+    }
+  ],
+  "result": [
+    {
+      "item": "minecraft:red_tulip"
+    },
+    {
+      "item": "minecraft:orange_tulip"
+    },
+    {
+      "item": "minecraft:white_tulip"
+    },
+    {
+      "item": "minecraft:pink_tulip"
+    },
+    {
+      "item": "chaotic_comfort:yellow_tulip"
+    },
+    {
+      "item": "chaotic_comfort:purple_tulip"
+    }
+  ],
+    "count": 1
+  }
