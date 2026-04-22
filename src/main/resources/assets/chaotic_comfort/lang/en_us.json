@@ -35,5 +35,8 @@
   "block.chaotic_comfort.pale_moss_carpet": "Pale Moss Carpet",
 
   "entity.minecraft.villager.guy": "Guy",
-  "entity.minecraft.villager.florist": "Florist Guy"
+  "entity.minecraft.villager.florist": "Florist Guy",
+
+  "painting.chaotic_comfort.victory.author": "Duh",
+  "painting.chaotic_comfort.victory.title": "Victory"
 }
