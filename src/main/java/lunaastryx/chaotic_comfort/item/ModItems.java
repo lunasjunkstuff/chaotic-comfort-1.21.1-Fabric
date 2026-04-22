@@ -16,7 +16,7 @@ import java.util.List;
 public class ModItems {
     public static final Item GOLDEN_NETHER_STAR = registerItem("golden_nether_star", new Item(new Item.Settings().fireproof()));
 
-    public static final Item PUFFER_SMITHING_TEMPLATE = registerItem("puffer_smithing_template",
+    public static final Item PUFFER_SMITHING_TEMPLATE = registerItem("puffer_armor_trim_smithing_template",
             SmithingTemplateItem.of(Identifier.of(ChaoticComfort.MOD_ID, "puffer"), FeatureFlags.VANILLA));
 
     public static final Item ELECTRIC_GUITAR = registerItem("electric_guitar",
@@ -27,7 +27,7 @@ public class ModItems {
                     .attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.ELECTRIC_GUITAR, 0, -2.67f)).fireproof().maxCount(1)){
                 @Override
                 public void appendTooltip(ItemStack stack, TooltipContext context, List<Text> tooltip, TooltipType type) {
-                    tooltip.add(Text.translatable("tooltip.chaotic_chaos.glitchy_electric_guitar.tooltip"));
+                    tooltip.add(Text.translatable("tooltip.chaotic_comfort.glitchy_electric_guitar.tooltip"));
                     super.appendTooltip(stack, context, tooltip, type);
                 }
             });
